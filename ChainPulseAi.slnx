@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="ChainPulseAi/ChainPulseAi.vcxproj" />
+  <Project Path="ChainPulseAi/ChainPulseAi.vcxproj" Id="d1f63373-1b70-46b1-b4d7-d1a127a4981a" />
 </Solution>
